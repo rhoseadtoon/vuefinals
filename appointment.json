@@ -1,0 +1,114 @@
+{
+    "appointments": [
+      {
+        "id": 1,
+        "students_fullname": "Janie Labadie",
+        "counselors_fullname": "Sedrick Mayert",
+        "appointment_date": "2023-12-23 11:21:30",
+        "appointment_status": "scheduled",
+        "cancellation_info": "Quo aut praesentium cupiditate. Modi laborum eum ea dicta omnis sint temporibus. Et nisi quibusdam non eligendi esse. Deserunt optio voluptates aut blanditiis ut. Eos quibusdam voluptates et omnis.",
+        "comment": "Ullam nihil commodi quidem neque. Ab sint voluptatum ipsam facere ut nostrum cupiditate et. Molestias voluptatibus et laboriosam qui. Laudantium vel vel ad.",
+        "created_at": "2023-12-16T12:22:57.000000Z",
+        "updated_at": "2023-12-16T12:22:57.000000Z"
+      },
+      {
+        "id": 2,
+        "students_fullname": "Jose Kerluke",
+        "counselors_fullname": "Natalie Bahringer",
+        "appointment_date": "2023-12-29 11:03:13",
+        "appointment_status": "scheduled",
+        "cancellation_info": "Consequuntur doloremque rerum architecto in. Vitae aperiam magnam commodi ab quia corporis necessitatibus. Aperiam iste ut voluptatem ducimus.",
+        "comment": "Quisquam recusandae nulla officiis accusamus delectus. Dicta reiciendis delectus dolore expedita aut et dolores ut. Nesciunt doloribus sint facere magnam.",
+        "created_at": "2023-12-16T12:22:57.000000Z",
+        "updated_at": "2023-12-16T12:22:57.000000Z"
+      },
+      {
+        "id": 4,
+        "students_fullname": "Cathryn Bashirian",
+        "counselors_fullname": "Miss Eleanora Rice",
+        "appointment_date": "2024-01-08 11:25:20",
+        "appointment_status": "scheduled",
+        "cancellation_info": "Sint aut aut omnis voluptas fugit vel dignissimos. Voluptatem veniam nesciunt officia qui nemo ab dolorem. Consequuntur et et ad cupiditate aperiam dignissimos. Error animi iure cum quod rem.",
+        "comment": "Ratione enim minima laboriosam id sed. Occaecati enim aut et numquam. Aut alias vitae mollitia quos laudantium.",
+        "created_at": "2023-12-16T12:22:57.000000Z",
+        "updated_at": "2023-12-16T12:22:57.000000Z"
+      },
+      {
+        "id": 5,
+        "students_fullname": "Ewald Stark",
+        "counselors_fullname": "Genesis Ledner",
+        "appointment_date": "2023-12-28 04:03:14",
+        "appointment_status": "scheduled",
+        "cancellation_info": "Adipisci ad nihil cupiditate quia. Et at qui sed nisi natus et consequuntur. Eos dolores mollitia quos temporibus quis. Commodi quia atque saepe dolorem.",
+        "comment": "Molestiae et non corrupti ipsa libero. Quia sed facilis quasi autem. Excepturi magni voluptatem veniam repellendus. Atque cum aliquam iure esse sapiente eius.",
+        "created_at": "2023-12-16T12:22:57.000000Z",
+        "updated_at": "2023-12-16T12:22:57.000000Z"
+      },
+      {
+        "id": 6,
+        "students_fullname":  "Friedrich Kuhn",
+        "counselors_fullname": "Prof. Gilda Will",
+        "appointment_date": "2024-01-08 05:30:28",
+        "appointment_status": "scheduled",
+        "cancellation_info": "Iusto pariatur at et ea autem aut maiores quia. Et eius magnam est natus accusamus commodi. Ipsum eaque voluptatem placeat maxime molestias. Voluptates aliquid fuga aliquam error doloribus.",
+        "comment": "Veritatis possimus quisquam sit porro necessitatibus est ea. Nostrum officiis dolor fuga quia molestiae nulla sit. Tempora accusantium corrupti quibusdam voluptatem nostrum iste debitis. Ullam et occaecati ad a nisi libero.",
+        "created_at": "2023-12-16T12:22:57.000000Z",
+        "updated_at": "2023-12-16T12:22:57.000000Z"
+      },
+      {
+        "id": 7,
+        "students_fullname": "Elias Fahey",
+        "counselors_fullname": "Angel Cruz",
+        "appointment_date": "2024-01-02 08:13:03",
+        "appointment_status": "scheduled",
+        "cancellation_info": "Sint maxime delectus labore modi aut eos. Corporis sit est consectetur et consequuntur. Fuga iste optio eum veritatis maiores eius. Non quis culpa fugiat voluptatem sint sapiente. Ipsum cumque non aperiam nam quisquam quod debitis.",
+        "comment": "Enim vel qui rerum fugiat. Magni sed in est eaque.",
+        "created_at": "2023-12-16T12:22:57.000000Z",
+        "updated_at": "2023-12-16T12:22:57.000000Z"
+      },
+      {
+        "id": 8,
+        "students_fullname": "Harold Ratke",
+        "counselors_fullname": "Natalie Bahringer",
+        "appointment_date": "2024-01-16 03:34:41",
+        "appointment_status": "scheduled",
+        "cancellation_info": "Numquam autem quaerat pariatur fugit sunt. Ratione cumque ut perspiciatis tenetur assumenda.",
+        "comment": "Harum rerum id voluptatibus illum nostrum neque ab. Non in dolorem officiis ut neque omnis. Consequatur ut quaerat est illo ullam totam. Suscipit ut aliquid inventore nam omnis est commodi.",
+        "created_at": "2023-12-16T12:22:57.000000Z",
+        "updated_at": "2023-12-16T12:22:57.000000Z"
+      },
+      {
+        "id": 9,
+        "students_fullname": "Eden Blick",
+        "counselors_fullname": "Sarah Magtanggol",
+        "appointment_date": "2024-01-15 23:41:52",
+        "appointment_status": "scheduled",
+        "cancellation_info": "Omnis impedit non eius vero. Accusamus est mollitia aut dolores consectetur. Omnis officia perspiciatis laudantium nisi est officia magnam. Porro nobis at deserunt et voluptas et.",
+        "comment": "Asperiores perspiciatis cum sapiente qui voluptas. Ut a cumque sit quo nobis et aut. Aut temporibus eos qui iure. Quia magni vel non totam saepe.",
+        "created_at": "2023-12-16T12:22:57.000000Z",
+        "updated_at": "2023-12-16T12:22:57.000000Z"
+      },
+      {
+        "id": 10,
+        "students_fullname": "Hazle Hauck Sr.",
+        "counselors_fullname": "Enola Jacobs",
+        "appointment_date": "2023-12-25 10:57:19",
+        "appointment_status": "scheduled",
+        "cancellation_info": "Ullam quidem et excepturi. Amet similique magni illo est.",
+        "comment": "Necessitatibus et sint vel eum eos mollitia quo. Necessitatibus voluptas voluptatibus eius aut qui. Natus dignissimos fugiat adipisci ratione repellat hic tenetur.",
+        "created_at": "2023-12-16T12:22:57.000000Z",
+        "updated_at": "2023-12-16T12:22:57.000000Z"
+      },
+      {
+        "id": 12,
+        "students_fullname": "Joan Beer",
+        "counselors_fullname": "Genesis Ledner",
+        "appointment_date": "2023-12-26 02:50:00",
+        "appointment_status": "scheduled",
+        "cancellation_info": "bsdfyGEFG",
+        "comment": "ehrgiarig",
+        "created_at": "2023-12-17T06:50:19.000000Z",
+        "updated_at": "2023-12-17T06:50:19.000000Z"
+      }
+    ]
+  }
